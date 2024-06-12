@@ -1,6 +1,8 @@
-# Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm [Manoj Neupane](https://github.com/manojneupane111). Welcome to my GitHub profile!
+I'm a passionate Web developer with a love for  programming and a strong interest in online learning platforms. I enjoy exploring new technologies, solving complex problems, and contributing to open-source projects.
+
 
 ## About Me
 
