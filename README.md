@@ -40,7 +40,7 @@
  
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojneupaneweb&show_icons=true&locale=en" alt="manojneupaneweb" /></p>
+<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojneupaneweb&show_icons=true&locale=en" alt="manojneupaneweb" /></span>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojneupaneweb&" alt="manojneupaneweb" /></p>
+<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojneupaneweb&" alt="manojneupaneweb" /></span>
 
