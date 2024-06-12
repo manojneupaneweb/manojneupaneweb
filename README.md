@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojneupaneweb&label=Profile%20views&color=0e75b6&style=flat" alt="manojneupaneweb" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <h2 align="left">Languages and Tools</h2>
 <h4 align="left">Frontend Development:</h4>
 <p align="left"> 
