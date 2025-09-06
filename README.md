@@ -1,12 +1,7 @@
 # 👋 Hey, I'm Manoj Neupane  
 
-A passionate full-stack web developer from Nepal. I specialize in HTML, CSS, Sass, JavaScript, React, Node.js, Express.js, PHP, MySQL, and the MERN stack. I love building interactive, scalable web applications that solve real-world problems. Explore my projects to see my journey in web development.  
+I'm a passionate full-stack web developer from Nepal, specializing in HTML, CSS, JavaScript, React, Node.js, PHP, MySQL, and the MERN stack. I love building interactive and scalable web applications that solve real-world problems. I enjoy learning new technologies, contributing to open-source projects, and working on IoT and web development projects. My goal is to create apps that improve user experiences and simplify complex tasks.
 
-I have experience working with diverse technologies and frameworks. My journey started with front-end development, and over time, I’ve expanded into full-stack projects including backend development, database management, API integrations, and payment system implementations.  
-
-I enjoy problem-solving, learning new technologies, and contributing to open-source projects. I am motivated by creating applications that improve user experiences, streamline processes, and make technology accessible.  
-
-Outside of coding, I am passionate about IoT projects, exploring new programming languages, experimenting with web technologies, and staying updated with the latest tech trends.
   
 
 <img src="https://komarev.com/ghpvc/?username=manojneupaneweb&label=Profile%20Views&color=blue&style=flat-square" alt="profile views"/>
