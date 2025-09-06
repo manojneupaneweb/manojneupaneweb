@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Manoj Neupane  
+# Hey, I'm Manoj Neupane  
 
 I'm a passionate full-stack web developer from Nepal, specializing in HTML, CSS, JavaScript, React, Node.js, PHP, MySQL, and the MERN stack. I love building interactive and scalable web applications that solve real-world problems. I enjoy learning new technologies, contributing to open-source projects, and working on IoT and web development projects. My goal is to create apps that improve user experiences and simplify complex tasks.
 
