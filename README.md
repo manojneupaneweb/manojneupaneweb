@@ -1,22 +1,11 @@
-<h2 align="center">Hi there 👋</h2>
-<h1 align="center">I'm Manoj Neupane</h1>
+# 👋 Hey, I'm Manoj Neupane  
 
-<p align="center">
-  🚀 Passionate Web Developer | MERN & PHP/SQL Explorer | Tech Enthusiast from Nepal  
-</p>
+I'm a passionate full-stack developer from Nepal with a focus on **MERN stack and PHP/MySQL**.  
+I enjoy exploring new technologies, building real-world projects, and sharing my learning journey.  
+Currently, I'm working on **GoGain (a gym management system)** and **TechSphere (an e-commerce platform)**,  
+while also experimenting with **IoT projects** and contributing to the tech community.  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manojneupaneweb&label=Profile%20views&color=0e75b6&style=flat" alt="manojneupaneweb" />
-</p>
-
----
-
-### 💻 About Me  
-- 🔭 Currently working on **GoGain (Gym Project)** & **TechSphere (E-commerce)**  
-- 🌱 Learning **MERN Stack & SQL with PHP**  
-- ⚡ Exploring **IoT projects** and sharing on LinkedIn  
-- 🎯 Goal: Build real-world impactful apps & contribute to open source  
-
+<img src="https://komarev.com/ghpvc/?username=manojneupaneweb&label=Profile%20Views&color=blue&style=flat-square" alt="profile views"/>
 ---
 
 ### 🛠️ Languages and Tools  
